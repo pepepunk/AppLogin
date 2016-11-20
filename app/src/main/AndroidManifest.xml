@@ -15,7 +15,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MenuPrincipal"></activity>
+        <activity
+            android:name=".MenuPrincipal"
+            android:label="@string/menuPrincipal" />
+        <activity android:name=".agregarActivity" />
+        <activity android:name=".eliminarActivity" />
+        <activity android:name=".actualizarActivity" />
+        <activity android:name=".consultarActivity"></activity>
     </application>
 
 </manifest>

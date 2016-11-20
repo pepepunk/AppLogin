@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Desbloquear</string>
+    <string name="menuPrincipal">Menu de Inicio</string>
+
 </resources>
